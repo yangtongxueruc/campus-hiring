@@ -17,5 +17,5 @@
 电子电气、结构设计、FPGA算法、嵌入式开发
 
 ### Contact me
-[zhijie@pony.ai](zhijie@pony.ai)
+zhijie@pony.ai<br>
 Email：name + position + university
