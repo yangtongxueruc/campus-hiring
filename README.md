@@ -10,6 +10,6 @@
 **硬件研发**<br>
 技术方向关键词：电子电气、FPGA、嵌入式开发<br>
 
-[社招]（https://app.mokahr.com/apply/pony/2736#/?_k=d2u07b）
+[社招]（https://app.mokahr.com/apply/pony/2736#)
 
 
