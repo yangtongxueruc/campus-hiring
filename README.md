@@ -20,7 +20,7 @@
 zhijie@pony.ai<br>
 Email：name + position + university
 
-###[面试指南]()
+### [面试指南](https://github.com/yangtongxueruc/campus-hiring/blob/master/%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97.md)<br>
 
 ### Why Pony.ai
 * 1 **巨大成长空间** <br>
